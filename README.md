@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m python back end developer 👨🏻‍💻<br>🌱 I’m interested in learning<br>
+ Hi! 👋<br> I’m Ali and I'm python back end developer 👨🏻‍💻 and interested in learning 🌱<br>
 
 
 # 💻 Tech Stack:
